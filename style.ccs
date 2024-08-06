@@ -7,7 +7,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #424E61;
+    background-color: #424447;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -15,14 +15,14 @@ body {
     padding: 24px 0;
 }
 
-.cabecalho-imagem{
-    width: 10%;
+.cabecalho-imagem{ background-color: black;
+    width: 25%;;
 }
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 16px;
-    font-size: 16px;
+    margin: 0 10px;
+    font-size: 10px;
 }
 
 .escola-imagem{
