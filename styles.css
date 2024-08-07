@@ -1,8 +1,4 @@
 
-{
-    margin: 0;
-    padding: 0;
-}
 body {
     font-family: 'Poppins', sans-serif;
 }
@@ -16,7 +12,7 @@ body {
 }
 
 .cabecalho-imagem{ background-color: black;
-    width: 25%;;
+    width: 5%;;
 }
 
 .cabecalho-lista-item{
@@ -26,11 +22,11 @@ body {
 }
 
 .escola-imagem{
-    width: 25%;
+    width: 5%;
 }
 
 .escola{
-    background-image: linear-gradient(#424E61,#16CFF8);
+    background-image: linear-gradient(#2173d1,#216fe4);
     color:white;
     display: flex;
     justify-content: center;
