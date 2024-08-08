@@ -1,5 +1,4 @@
-
-{
+*{
     margin: 0;
     padding: 0;
 }
@@ -7,7 +6,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: green;
+    background-color: rgb(6, 118, 6);
     color: white;
     display: flex;
     justify-content: space-around;
@@ -16,7 +15,7 @@ body {
 }
 
 .cabecalho-imagem{ background-color: black;
-    width: 25%;;
+    width: 25%;
 }
 
 .cabecalho-lista-item{
@@ -51,7 +50,7 @@ body {
     padding: 24px 0;
 }
 .estudante-imagem{
-    width: 120px;
+    width: 100px;
 }
 
 .estudante-icone{
@@ -62,5 +61,8 @@ body {
 .estudante-div{
     text-align: center;
     padding: 16px 0;
+}
+.site-imagem{
+    width: 15%;
 }
 
